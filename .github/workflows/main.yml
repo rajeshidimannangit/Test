@@ -1,1 +1,4 @@
+
+name: TOSCA execution
+
 on: workflow_dispatch
